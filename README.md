@@ -4,7 +4,8 @@
 
 This repository contains examples of how to use the duohub graph memory integration.
 
-## [pipecat](/pipecat)  &nbsp; <img src="https://mintlify.s3-us-west-1.amazonaws.com/daily/logo/dark.svg" alt="pipecat logo" height="20">
+## [<img src="images/pipecat-light.svg" alt="pipecat logo" height="20"> &nbsp; Pipecat](/pipecat) 
+
 
 This example shows how to use the duohub graph memory integration with the pipecat framework for voice AI. 
 
@@ -17,7 +18,8 @@ It uses:
 
 Dependencies are managed with Poetry. The project can be containerised with Docker and deployed on ECS.
 
-## [lambda](/lambda) &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/1920px-Amazon_Lambda_architecture_logo.svg.png" alt="lambda logo" height="20">
+## [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/1920px-Amazon_Lambda_architecture_logo.svg.png" alt="lambda logo" height="24"> &nbsp; Lambda](/lambda) 
+
 
 This example demonstrates how to integrate duohub's graph memory with AWS Lambda for serverless memory retrieval.
 
