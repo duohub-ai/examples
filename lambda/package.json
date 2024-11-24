@@ -1,0 +1,14 @@
+{
+  "name": "lambda",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.9.3"
+  },
+  "dependencies": {
+    "aws-lambda": "^1.0.7",
+    "axios": "^1.7.7",
+    "process": "^0.11.10"
+  }
+}
