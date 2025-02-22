@@ -54,7 +54,7 @@ async def main():
 
         context = Window(
             messages=messages,
-            memory_id='memoryID',
+            memory_id='memoryID', ## replace with the memory ID of the graph you want to use
             api_key=os.getenv("DUOHUB_API_KEY")
         )
 

@@ -4,6 +4,7 @@ version = "0.1.0"
 description = ""
 authors = ["Oseh Mathias <o@matmail.me>"]
 readme = "README.md"
+package-mode = false
 
 [tool.poetry.dependencies]
 python = "^3.12"
@@ -11,7 +12,7 @@ python-dotenv = "^1.0.1"
 fastapi = {extras = ["all"], version = "^0.115.5"}
 uvicorn = "^0.32.1"
 pipecat-ai = {extras = ["cartesia", "daily", "openai", "silero"], version = "^0.0.49"}
-duohub = "^0.13.3"
+duohub = "^2.2.0"
 
 
 [build-system]
